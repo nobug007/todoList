@@ -27,3 +27,5 @@
 24. 카메라로 금액을 비추면, 원화로 환산해서 보여주는 앱
 25. 사파리 CCTV
 26. 당구 로봇
+27. esp32 AI 만들기 https://github.com/espressif/esp-dl/tree/master/esp-dl/audio
+28.   https://fishpoint.tistory.com/13240
